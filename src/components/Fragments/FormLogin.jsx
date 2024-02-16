@@ -21,7 +21,7 @@ const FormLogin = () => {
           type='password' 
           name='password' 
           placeholder='********'/>
-          <Button type='submit' text='Login'/>
+          <Button type='submit' text='Login' className='w-full'/>
         </form>
     )
 }

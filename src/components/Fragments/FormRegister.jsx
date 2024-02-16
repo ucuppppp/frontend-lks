@@ -24,7 +24,7 @@ const FormRegister = () => {
           type='password' 
           name='confirmPassword' 
           placeholder='********'/>
-          <Button type='submit' text='Register'/>
+          <Button type='submit' text='Register' className='w-full'/>
         </form>
     )
 }
